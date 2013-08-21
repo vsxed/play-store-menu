@@ -6,7 +6,7 @@ body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1em;
   line-height: 1;
-  background: url('background.jpg') 0 0 no-repeat #333333;
+  background: url('http://www.eduardmayer.de/codepen-css-resources/images/play-store-menu/background.jpg') 0 0 no-repeat #333333;
 }
 .pen {
   max-width: 200px;
