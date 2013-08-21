@@ -105,6 +105,8 @@ $(document).ready(function () {
 				$('#books').css('top', pos5);
 				$('.hide').css({'left': left, 'opacity' : 0, 'transition' : 'all 0s', '-webkit-transition' : 'all 0s', '-moz-transition' : 'all 0s' });
 			}
+			
+			return false;
 		});
 	});
 	
